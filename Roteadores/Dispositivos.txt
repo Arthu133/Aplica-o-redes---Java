@@ -1,0 +1,30 @@
+R1:
+Modelo: DLINK DIR-615
+Rede: 192.168.0.0/16
+Primeiro endereço: 192.168.0.0
+Último endereço: 192.168.255.255
+Endereço IP interface LAN: 192.168.0.1
+Endereço IP interface WAN: Não tem
+Página web: http://192.168.0.1
+
+
+R2:
+Modelo: TP-LINK TL-MR3420
+Rede: 172.16.0.0/12
+Primeiro endereço: 172.16.0.0
+Último endereço: 172.31.255.255
+Endereço IP interface LAN: 172.16.0.1
+Endereço IP interface WAN: 192.168.0.2
+Página web: http://172.16.0.1/
+
+
+PC1:
+Modelo: Dell Inspiron 14r
+Rede: 192.168.0.0/16
+Endereço IP: 192.168.0.3
+
+
+PC2:
+Modelo Dell Inspiron 7472
+Rede: 172.16.0.0/12
+Endereço IP: 172.16.0.2
